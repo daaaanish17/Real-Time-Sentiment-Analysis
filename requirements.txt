@@ -1,0 +1,6 @@
+transformers
+streamlit
+opencv-python
+torch
+numpy
+scipy
