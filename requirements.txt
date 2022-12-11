@@ -1,0 +1,6 @@
+pip install transformers
+pip install streamlit
+pip install opencv-python
+pip install torch
+pip install numpy
+pip install scipy
